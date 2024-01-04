@@ -1,0 +1,5 @@
+__pycache__
+hmwk4-venv
+.env
+.vscode
+migrations
